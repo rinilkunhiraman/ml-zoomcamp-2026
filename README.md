@@ -5,6 +5,7 @@ Coursework, homework, experiments, and projects for the [DataTalksClub Machine L
 ## Progress
 
 - [x] Homework 01 — Introduction to Machine Learning
+- [x] Homework 02 - Regression
 
 ## Repository Structure
 
